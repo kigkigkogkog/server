@@ -1,0 +1,161 @@
+{
+    "userId" : "3115005483",
+    "userName" : "ljr",
+    "userPwd" : "123456",
+    "orderList" : [ 
+        {
+            "addressInfo" : [ 
+                {
+                    "addressId" : "10005",
+                    "userName" : "王尼玛",
+                    "streetName" : "北京",
+                    "postCode" : "753698",
+                    "tel" : "15478236523",
+                    "isDefault" : false
+                }
+            ],
+            "goodsList" : [ 
+                {
+                    "productNum" : "1",
+                    "checked" : "1",
+                    "productId" : 107,
+                    "productPrice" : 99,
+                    "productName" : "米家电水壶",
+                    "productImg" : "dsh.jpg"
+                }, 
+                {
+                    "productNum" : "1",
+                    "checked" : "1",
+                    "productId" : 112,
+                    "productPrice" : 159,
+                    "productName" : "小米手环 3",
+                    "productImg" : "sh3.jpg"
+                }
+            ],
+            "orderId" : "1542274926254",
+            "orderTotal" : 308,
+            "orderStatus" : "1",
+            "createDate" : "2018-11-15 17:42:06"
+        }, 
+        {
+            "addressInfo" : [ 
+                {
+                    "addressId" : "10004",
+                    "userName" : "大兄弟",
+                    "streetName" : "广东深圳",
+                    "postCode" : "458525",
+                    "tel" : "13698524569",
+                    "isDefault" : true
+                }
+            ],
+            "goodsList" : [ 
+                {
+                    "productNum" : "1",
+                    "checked" : "1",
+                    "productId" : 107,
+                    "productPrice" : 99,
+                    "productName" : "米家电水壶",
+                    "productImg" : "dsh.jpg"
+                }, 
+                {
+                    "productNum" : "1",
+                    "checked" : "1",
+                    "productId" : 112,
+                    "productPrice" : 159,
+                    "productName" : "小米手环 3",
+                    "productImg" : "sh3.jpg"
+                }
+            ],
+            "orderId" : "1542334797947",
+            "orderTotal" : 308,
+            "orderStatus" : "1",
+            "createDate" : "2018-11-16 10:19:57"
+        }, 
+        {
+            "addressInfo" : [ 
+                {
+                    "addressId" : "10001",
+                    "userName" : "帅哥",
+                    "streetName" : "广州大学城",
+                    "postCode" : "510006",
+                    "tel" : "14525632478",
+                    "isDefault" : true
+                }
+            ],
+            "goodsList" : [ 
+                {
+                    "productNum" : "1",
+                    "checked" : "1",
+                    "productId" : 103,
+                    "productPrice" : 2499,
+                    "productName" : "小米8",
+                    "productImg" : "8.png"
+                }, 
+                {
+                    "productNum" : "1",
+                    "checked" : "1",
+                    "productId" : 109,
+                    "productPrice" : 1299,
+                    "productName" : "1MORE 四单元圈铁耳机",
+                    "productImg" : "ej.jpg"
+                }
+            ],
+            "orderId" : "1542334927840",
+            "orderTotal" : 3848,
+            "orderStatus" : "1",
+            "createDate" : "2018-11-16 10:22:07"
+        }
+    ],
+    "addressList" : [ 
+        {
+            "addressId" : "10001",
+            "userName" : "帅哥",
+            "streetName" : "广州大学城",
+            "postCode" : "510006",
+            "tel" : "14525632478",
+            "isDefault" : true
+        }, 
+        {
+            "addressId" : "10004",
+            "userName" : "大兄弟",
+            "streetName" : "广东深圳",
+            "postCode" : "458525",
+            "tel" : "13698524569",
+            "isDefault" : false
+        }, 
+        {
+            "addressId" : "10005",
+            "userName" : "王尼玛",
+            "streetName" : "北京",
+            "postCode" : "753698",
+            "tel" : "15478236523",
+            "isDefault" : false
+        }, 
+        {
+            "addressId" : "10006",
+            "userName" : "周杰伦",
+            "streetName" : "香港",
+            "postCode" : "753951",
+            "tel" : "12654789523",
+            "isDefault" : false
+        }
+    ],
+    "cartList" : [ 
+        {
+            "productNum" : "1",
+            "checked" : "1",
+            "productId" : 103,
+            "productPrice" : 2499,
+            "productName" : "小米8",
+            "productImg" : "8.png"
+        }, 
+        {
+            "productNum" : "1",
+            "checked" : "1",
+            "productId" : 109,
+            "productPrice" : 1299,
+            "productName" : "1MORE 四单元圈铁耳机",
+            "productImg" : "ej.jpg"
+        }
+    ]
+}
